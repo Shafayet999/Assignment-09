@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i0.wp.com/www.thedogwalksme.com/wp-content/uploads/2023/02/redbarkphotography-7591.jpg?resize=1024%2C683&ssl=1",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://cdn.shopify.com/s/files/1/0086/0795/7054/files/winter_grooming_brushing-100.jpg?v=1709284278",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Rental",
+    "providerName": "SnuggleZone Pets",
+    "providerEmail": "care@snugglezone.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Soft, heated pet beds available for rent to keep your cats and dogs warm all winter long.",
+    "image": "https://m.media-amazon.com/images/I/71ljPW4-q9L.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition & Supplements Consultation",
+    "providerName": "HealthyTails Clinic",
+    "providerEmail": "support@healthytails.com",
+    "price": 22,
+    "rating": 4.6,
+    "slotsAvailable": 2,
+    "description": "Expert guidance on pet nutrition, vitamins, and supplements for maintaining immunity during cold weather.",
+    "image": "https://www.simplysupplements.co.uk/healthylife/uploads/images/image_big_30_5b7fc1029d6ee.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Snow Walk Training Session",
+    "providerName": "FurSteps Academy",
+    "providerEmail": "train@fursteps.com",
+    "price": 28,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Teach your pets how to safely walk on snow and ice with protective gear and leash techniques.",
+    "image": "https://www.shutterstock.com/image-photo/young-woman-red-jacket-interacting-260nw-2611156381.jpg",
+    "category": "Training"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Safety Checkup Package",
+    "providerName": "Pawsitive Care Vet",
+    "providerEmail": "contact@pawsitivevet.com",
+    "price": 35,
+    "rating": 5.0,
+    "slotsAvailable": 4,
+    "description": "Full winter health checkup including fur inspection, hydration test, and paw pad protection treatment.",
+    "image": "https://lovebites.net.au/cdn/shop/articles/2_1613x.png?v=1720047890",
+    "category": "Veterinary"
+  }
+]
